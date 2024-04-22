@@ -1,4 +1,3 @@
-# pigdice 완성
 import random
 
 player1 = input("플레이어1의 이름을 입력하세요 : ")
